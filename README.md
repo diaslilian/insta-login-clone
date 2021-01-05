@@ -18,8 +18,8 @@
 
 <hr>
 
-<h3 align="center">
+<h5 align="center">
 
 Created by Lilian Dias :wave: [Hi-5!](https://www.linkedin.com/in/dias-lilian/)
 
-</h3>
+</h5>
